@@ -1,0 +1,10 @@
+/Users/steven/Projects/CSharpFundamentals/Lesson01/Scenario2-2/obj/Debug/netcoreapp2.0/Scenario2-2.csproj.CoreCompileInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson01/Scenario2-2/obj/Debug/netcoreapp2.0/Scenario2-2.AssemblyInfoInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson01/Scenario2-2/obj/Debug/netcoreapp2.0/Scenario2-2.AssemblyInfo.cs
+/Users/steven/Projects/CSharpFundamentals/Lesson01/Scenario2-2/bin/Debug/netcoreapp2.0/Scenario2-2.deps.json
+/Users/steven/Projects/CSharpFundamentals/Lesson01/Scenario2-2/bin/Debug/netcoreapp2.0/Scenario2-2.runtimeconfig.json
+/Users/steven/Projects/CSharpFundamentals/Lesson01/Scenario2-2/bin/Debug/netcoreapp2.0/Scenario2-2.runtimeconfig.dev.json
+/Users/steven/Projects/CSharpFundamentals/Lesson01/Scenario2-2/bin/Debug/netcoreapp2.0/Scenario2-2.dll
+/Users/steven/Projects/CSharpFundamentals/Lesson01/Scenario2-2/bin/Debug/netcoreapp2.0/Scenario2-2.pdb
+/Users/steven/Projects/CSharpFundamentals/Lesson01/Scenario2-2/obj/Debug/netcoreapp2.0/Scenario2-2.dll
+/Users/steven/Projects/CSharpFundamentals/Lesson01/Scenario2-2/obj/Debug/netcoreapp2.0/Scenario2-2.pdb

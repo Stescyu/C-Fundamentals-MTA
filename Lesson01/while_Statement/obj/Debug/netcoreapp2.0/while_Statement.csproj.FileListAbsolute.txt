@@ -1,0 +1,10 @@
+/Users/steven/Projects/CSharpFundamentals/Lesson01/while_Statement/bin/Debug/netcoreapp2.0/while_Statement.deps.json
+/Users/steven/Projects/CSharpFundamentals/Lesson01/while_Statement/bin/Debug/netcoreapp2.0/while_Statement.runtimeconfig.json
+/Users/steven/Projects/CSharpFundamentals/Lesson01/while_Statement/bin/Debug/netcoreapp2.0/while_Statement.runtimeconfig.dev.json
+/Users/steven/Projects/CSharpFundamentals/Lesson01/while_Statement/bin/Debug/netcoreapp2.0/while_Statement.dll
+/Users/steven/Projects/CSharpFundamentals/Lesson01/while_Statement/bin/Debug/netcoreapp2.0/while_Statement.pdb
+/Users/steven/Projects/CSharpFundamentals/Lesson01/while_Statement/obj/Debug/netcoreapp2.0/while_Statement.csproj.CoreCompileInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson01/while_Statement/obj/Debug/netcoreapp2.0/while_Statement.AssemblyInfoInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson01/while_Statement/obj/Debug/netcoreapp2.0/while_Statement.AssemblyInfo.cs
+/Users/steven/Projects/CSharpFundamentals/Lesson01/while_Statement/obj/Debug/netcoreapp2.0/while_Statement.dll
+/Users/steven/Projects/CSharpFundamentals/Lesson01/while_Statement/obj/Debug/netcoreapp2.0/while_Statement.pdb

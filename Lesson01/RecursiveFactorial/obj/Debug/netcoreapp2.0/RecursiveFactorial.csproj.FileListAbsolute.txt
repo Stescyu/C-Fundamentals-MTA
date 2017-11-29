@@ -1,0 +1,10 @@
+/Users/steven/Projects/CSharpFundamentals/Lesson01/RecursiveFactorial/bin/Debug/netcoreapp2.0/RecursiveFactorial.deps.json
+/Users/steven/Projects/CSharpFundamentals/Lesson01/RecursiveFactorial/bin/Debug/netcoreapp2.0/RecursiveFactorial.runtimeconfig.json
+/Users/steven/Projects/CSharpFundamentals/Lesson01/RecursiveFactorial/bin/Debug/netcoreapp2.0/RecursiveFactorial.runtimeconfig.dev.json
+/Users/steven/Projects/CSharpFundamentals/Lesson01/RecursiveFactorial/bin/Debug/netcoreapp2.0/RecursiveFactorial.dll
+/Users/steven/Projects/CSharpFundamentals/Lesson01/RecursiveFactorial/bin/Debug/netcoreapp2.0/RecursiveFactorial.pdb
+/Users/steven/Projects/CSharpFundamentals/Lesson01/RecursiveFactorial/obj/Debug/netcoreapp2.0/RecursiveFactorial.csproj.CoreCompileInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson01/RecursiveFactorial/obj/Debug/netcoreapp2.0/RecursiveFactorial.AssemblyInfoInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson01/RecursiveFactorial/obj/Debug/netcoreapp2.0/RecursiveFactorial.AssemblyInfo.cs
+/Users/steven/Projects/CSharpFundamentals/Lesson01/RecursiveFactorial/obj/Debug/netcoreapp2.0/RecursiveFactorial.dll
+/Users/steven/Projects/CSharpFundamentals/Lesson01/RecursiveFactorial/obj/Debug/netcoreapp2.0/RecursiveFactorial.pdb

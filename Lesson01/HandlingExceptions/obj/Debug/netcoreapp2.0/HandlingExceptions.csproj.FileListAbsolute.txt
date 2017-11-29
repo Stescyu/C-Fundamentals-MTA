@@ -1,0 +1,3 @@
+/Users/steven/Projects/CSharpFundamentals/Lesson01/HandlingExceptions/obj/Debug/netcoreapp2.0/HandlingExceptions.csproj.CoreCompileInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson01/HandlingExceptions/obj/Debug/netcoreapp2.0/HandlingExceptions.AssemblyInfoInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson01/HandlingExceptions/obj/Debug/netcoreapp2.0/HandlingExceptions.AssemblyInfo.cs

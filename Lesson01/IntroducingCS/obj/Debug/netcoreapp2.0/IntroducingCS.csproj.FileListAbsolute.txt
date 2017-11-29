@@ -1,0 +1,11 @@
+/Users/steven/Projects/CSharpFundamentals/Lesson01/IntroducingCS/bin/Debug/netcoreapp2.0/IntroducingCS.deps.json
+/Users/steven/Projects/CSharpFundamentals/Lesson01/IntroducingCS/bin/Debug/netcoreapp2.0/IntroducingCS.runtimeconfig.json
+/Users/steven/Projects/CSharpFundamentals/Lesson01/IntroducingCS/bin/Debug/netcoreapp2.0/IntroducingCS.runtimeconfig.dev.json
+/Users/steven/Projects/CSharpFundamentals/Lesson01/IntroducingCS/bin/Debug/netcoreapp2.0/IntroducingCS.dll
+/Users/steven/Projects/CSharpFundamentals/Lesson01/IntroducingCS/bin/Debug/netcoreapp2.0/IntroducingCS.pdb
+/Users/steven/Projects/CSharpFundamentals/Lesson01/IntroducingCS/obj/Debug/netcoreapp2.0/IntroducingCS.csprojResolveAssemblyReference.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson01/IntroducingCS/obj/Debug/netcoreapp2.0/IntroducingCS.csproj.CoreCompileInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson01/IntroducingCS/obj/Debug/netcoreapp2.0/IntroducingCS.AssemblyInfoInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson01/IntroducingCS/obj/Debug/netcoreapp2.0/IntroducingCS.AssemblyInfo.cs
+/Users/steven/Projects/CSharpFundamentals/Lesson01/IntroducingCS/obj/Debug/netcoreapp2.0/IntroducingCS.dll
+/Users/steven/Projects/CSharpFundamentals/Lesson01/IntroducingCS/obj/Debug/netcoreapp2.0/IntroducingCS.pdb
