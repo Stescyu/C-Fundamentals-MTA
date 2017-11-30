@@ -1,0 +1,10 @@
+/Users/steven/Projects/CSharpFundamentals/Lesson02/AbstractClass/bin/Debug/netcoreapp2.0/AbstractClass.deps.json
+/Users/steven/Projects/CSharpFundamentals/Lesson02/AbstractClass/bin/Debug/netcoreapp2.0/AbstractClass.runtimeconfig.json
+/Users/steven/Projects/CSharpFundamentals/Lesson02/AbstractClass/bin/Debug/netcoreapp2.0/AbstractClass.runtimeconfig.dev.json
+/Users/steven/Projects/CSharpFundamentals/Lesson02/AbstractClass/bin/Debug/netcoreapp2.0/AbstractClass.dll
+/Users/steven/Projects/CSharpFundamentals/Lesson02/AbstractClass/bin/Debug/netcoreapp2.0/AbstractClass.pdb
+/Users/steven/Projects/CSharpFundamentals/Lesson02/AbstractClass/obj/Debug/netcoreapp2.0/AbstractClass.csproj.CoreCompileInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson02/AbstractClass/obj/Debug/netcoreapp2.0/AbstractClass.AssemblyInfoInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson02/AbstractClass/obj/Debug/netcoreapp2.0/AbstractClass.AssemblyInfo.cs
+/Users/steven/Projects/CSharpFundamentals/Lesson02/AbstractClass/obj/Debug/netcoreapp2.0/AbstractClass.dll
+/Users/steven/Projects/CSharpFundamentals/Lesson02/AbstractClass/obj/Debug/netcoreapp2.0/AbstractClass.pdb

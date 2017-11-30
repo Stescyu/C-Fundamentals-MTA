@@ -1,0 +1,10 @@
+/Users/steven/Projects/CSharpFundamentals/Lesson02/StaticMembers/bin/Debug/netcoreapp2.0/StaticMembers.deps.json
+/Users/steven/Projects/CSharpFundamentals/Lesson02/StaticMembers/bin/Debug/netcoreapp2.0/StaticMembers.runtimeconfig.json
+/Users/steven/Projects/CSharpFundamentals/Lesson02/StaticMembers/bin/Debug/netcoreapp2.0/StaticMembers.runtimeconfig.dev.json
+/Users/steven/Projects/CSharpFundamentals/Lesson02/StaticMembers/bin/Debug/netcoreapp2.0/StaticMembers.dll
+/Users/steven/Projects/CSharpFundamentals/Lesson02/StaticMembers/bin/Debug/netcoreapp2.0/StaticMembers.pdb
+/Users/steven/Projects/CSharpFundamentals/Lesson02/StaticMembers/obj/Debug/netcoreapp2.0/StaticMembers.csproj.CoreCompileInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson02/StaticMembers/obj/Debug/netcoreapp2.0/StaticMembers.AssemblyInfoInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson02/StaticMembers/obj/Debug/netcoreapp2.0/StaticMembers.AssemblyInfo.cs
+/Users/steven/Projects/CSharpFundamentals/Lesson02/StaticMembers/obj/Debug/netcoreapp2.0/StaticMembers.dll
+/Users/steven/Projects/CSharpFundamentals/Lesson02/StaticMembers/obj/Debug/netcoreapp2.0/StaticMembers.pdb

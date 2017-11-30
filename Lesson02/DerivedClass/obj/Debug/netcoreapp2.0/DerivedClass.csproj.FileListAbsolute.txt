@@ -1,0 +1,10 @@
+/Users/steven/Projects/CSharpFundamentals/Lesson02/DerivedClass/bin/Debug/netcoreapp2.0/DerivedClass.deps.json
+/Users/steven/Projects/CSharpFundamentals/Lesson02/DerivedClass/bin/Debug/netcoreapp2.0/DerivedClass.runtimeconfig.json
+/Users/steven/Projects/CSharpFundamentals/Lesson02/DerivedClass/bin/Debug/netcoreapp2.0/DerivedClass.runtimeconfig.dev.json
+/Users/steven/Projects/CSharpFundamentals/Lesson02/DerivedClass/bin/Debug/netcoreapp2.0/DerivedClass.dll
+/Users/steven/Projects/CSharpFundamentals/Lesson02/DerivedClass/bin/Debug/netcoreapp2.0/DerivedClass.pdb
+/Users/steven/Projects/CSharpFundamentals/Lesson02/DerivedClass/obj/Debug/netcoreapp2.0/DerivedClass.csproj.CoreCompileInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson02/DerivedClass/obj/Debug/netcoreapp2.0/DerivedClass.AssemblyInfoInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson02/DerivedClass/obj/Debug/netcoreapp2.0/DerivedClass.AssemblyInfo.cs
+/Users/steven/Projects/CSharpFundamentals/Lesson02/DerivedClass/obj/Debug/netcoreapp2.0/DerivedClass.dll
+/Users/steven/Projects/CSharpFundamentals/Lesson02/DerivedClass/obj/Debug/netcoreapp2.0/DerivedClass.pdb

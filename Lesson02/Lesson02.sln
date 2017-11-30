@@ -1,0 +1,75 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle", "Rectangle\Rectangle.csproj", "{21F0F09A-C8E2-4B1C-AA38-FBC91A80A724}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleEvent", "RectangleEvent\RectangleEvent.csproj", "{231D5D18-BF1D-485E-BAC4-181C54E3F920}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticMembers", "StaticMembers\StaticMembers.csproj", "{1BE8A827-E0EE-4BC4-8C4C-03D98B5A9E35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct", "Struct\Struct.csproj", "{752AF2E7-D2E4-4894-8FD8-6AED1B9AEEE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DerivedClass", "DerivedClass\DerivedClass.csproj", "{A3E67920-0D9B-40B8-9625-D29E0AF46948}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{C38989D8-CBFD-465D-A943-F1BE8DFA6243}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{DA1A6F31-0449-4356-A4FF-B346C9FEAC9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scenario2-1", "Scenario2-1\Scenario2-1.csproj", "{12650418-E07F-41C1-9313-1F1DBC3DC443}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21F0F09A-C8E2-4B1C-AA38-FBC91A80A724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F0F09A-C8E2-4B1C-AA38-FBC91A80A724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F0F09A-C8E2-4B1C-AA38-FBC91A80A724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F0F09A-C8E2-4B1C-AA38-FBC91A80A724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{231D5D18-BF1D-485E-BAC4-181C54E3F920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231D5D18-BF1D-485E-BAC4-181C54E3F920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231D5D18-BF1D-485E-BAC4-181C54E3F920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231D5D18-BF1D-485E-BAC4-181C54E3F920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BE8A827-E0EE-4BC4-8C4C-03D98B5A9E35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE8A827-E0EE-4BC4-8C4C-03D98B5A9E35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE8A827-E0EE-4BC4-8C4C-03D98B5A9E35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE8A827-E0EE-4BC4-8C4C-03D98B5A9E35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{752AF2E7-D2E4-4894-8FD8-6AED1B9AEEE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752AF2E7-D2E4-4894-8FD8-6AED1B9AEEE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752AF2E7-D2E4-4894-8FD8-6AED1B9AEEE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752AF2E7-D2E4-4894-8FD8-6AED1B9AEEE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3E67920-0D9B-40B8-9625-D29E0AF46948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E67920-0D9B-40B8-9625-D29E0AF46948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E67920-0D9B-40B8-9625-D29E0AF46948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E67920-0D9B-40B8-9625-D29E0AF46948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C38989D8-CBFD-465D-A943-F1BE8DFA6243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C38989D8-CBFD-465D-A943-F1BE8DFA6243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C38989D8-CBFD-465D-A943-F1BE8DFA6243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C38989D8-CBFD-465D-A943-F1BE8DFA6243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA1A6F31-0449-4356-A4FF-B346C9FEAC9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1A6F31-0449-4356-A4FF-B346C9FEAC9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1A6F31-0449-4356-A4FF-B346C9FEAC9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1A6F31-0449-4356-A4FF-B346C9FEAC9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12650418-E07F-41C1-9313-1F1DBC3DC443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12650418-E07F-41C1-9313-1F1DBC3DC443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12650418-E07F-41C1-9313-1F1DBC3DC443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12650418-E07F-41C1-9313-1F1DBC3DC443}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.scope = text/x-csharp
+		$0.TextStylePolicy = $4
+		$4.FileWidth = 80
+		$4.TabsToSpaces = True
+		$4.scope = text/plain
+		$0.StandardHeader = $5
+		$0.VersionControlPolicy = $6
+	EndGlobalSection
+EndGlobal

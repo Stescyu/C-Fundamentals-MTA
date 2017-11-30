@@ -1,0 +1,11 @@
+/Users/steven/Projects/CSharpFundamentals/Lesson02/RectangleEvent/bin/Debug/netcoreapp2.0/RectangleEvent.deps.json
+/Users/steven/Projects/CSharpFundamentals/Lesson02/RectangleEvent/bin/Debug/netcoreapp2.0/RectangleEvent.runtimeconfig.json
+/Users/steven/Projects/CSharpFundamentals/Lesson02/RectangleEvent/bin/Debug/netcoreapp2.0/RectangleEvent.runtimeconfig.dev.json
+/Users/steven/Projects/CSharpFundamentals/Lesson02/RectangleEvent/bin/Debug/netcoreapp2.0/RectangleEvent.dll
+/Users/steven/Projects/CSharpFundamentals/Lesson02/RectangleEvent/bin/Debug/netcoreapp2.0/RectangleEvent.pdb
+/Users/steven/Projects/CSharpFundamentals/Lesson02/RectangleEvent/obj/Debug/netcoreapp2.0/RectangleEvent.csprojResolveAssemblyReference.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson02/RectangleEvent/obj/Debug/netcoreapp2.0/RectangleEvent.csproj.CoreCompileInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson02/RectangleEvent/obj/Debug/netcoreapp2.0/RectangleEvent.AssemblyInfoInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson02/RectangleEvent/obj/Debug/netcoreapp2.0/RectangleEvent.AssemblyInfo.cs
+/Users/steven/Projects/CSharpFundamentals/Lesson02/RectangleEvent/obj/Debug/netcoreapp2.0/RectangleEvent.dll
+/Users/steven/Projects/CSharpFundamentals/Lesson02/RectangleEvent/obj/Debug/netcoreapp2.0/RectangleEvent.pdb

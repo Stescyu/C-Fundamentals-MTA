@@ -1,0 +1,10 @@
+/Users/steven/Projects/CSharpFundamentals/Lesson02/Struct/bin/Debug/netcoreapp2.0/Struct.deps.json
+/Users/steven/Projects/CSharpFundamentals/Lesson02/Struct/bin/Debug/netcoreapp2.0/Struct.runtimeconfig.json
+/Users/steven/Projects/CSharpFundamentals/Lesson02/Struct/bin/Debug/netcoreapp2.0/Struct.runtimeconfig.dev.json
+/Users/steven/Projects/CSharpFundamentals/Lesson02/Struct/bin/Debug/netcoreapp2.0/Struct.dll
+/Users/steven/Projects/CSharpFundamentals/Lesson02/Struct/bin/Debug/netcoreapp2.0/Struct.pdb
+/Users/steven/Projects/CSharpFundamentals/Lesson02/Struct/obj/Debug/netcoreapp2.0/Struct.csproj.CoreCompileInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson02/Struct/obj/Debug/netcoreapp2.0/Struct.AssemblyInfoInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson02/Struct/obj/Debug/netcoreapp2.0/Struct.AssemblyInfo.cs
+/Users/steven/Projects/CSharpFundamentals/Lesson02/Struct/obj/Debug/netcoreapp2.0/Struct.dll
+/Users/steven/Projects/CSharpFundamentals/Lesson02/Struct/obj/Debug/netcoreapp2.0/Struct.pdb

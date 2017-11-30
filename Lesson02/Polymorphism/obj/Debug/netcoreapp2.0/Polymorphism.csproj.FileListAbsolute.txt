@@ -1,0 +1,3 @@
+/Users/steven/Projects/CSharpFundamentals/Lesson02/Polymorphism/obj/Debug/netcoreapp2.0/Polymorphism.csproj.CoreCompileInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson02/Polymorphism/obj/Debug/netcoreapp2.0/Polymorphism.AssemblyInfoInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson02/Polymorphism/obj/Debug/netcoreapp2.0/Polymorphism.AssemblyInfo.cs
