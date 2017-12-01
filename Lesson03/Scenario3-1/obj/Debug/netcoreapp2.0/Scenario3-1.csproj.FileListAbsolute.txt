@@ -1,0 +1,11 @@
+/Users/steven/Projects/CSharpFundamentals/Lesson03/Scenario3-1/bin/Debug/netcoreapp2.0/Scenario3-1.deps.json
+/Users/steven/Projects/CSharpFundamentals/Lesson03/Scenario3-1/bin/Debug/netcoreapp2.0/Scenario3-1.runtimeconfig.json
+/Users/steven/Projects/CSharpFundamentals/Lesson03/Scenario3-1/bin/Debug/netcoreapp2.0/Scenario3-1.runtimeconfig.dev.json
+/Users/steven/Projects/CSharpFundamentals/Lesson03/Scenario3-1/bin/Debug/netcoreapp2.0/Scenario3-1.dll
+/Users/steven/Projects/CSharpFundamentals/Lesson03/Scenario3-1/bin/Debug/netcoreapp2.0/Scenario3-1.pdb
+/Users/steven/Projects/CSharpFundamentals/Lesson03/Scenario3-1/obj/Debug/netcoreapp2.0/Scenario3-1.csprojResolveAssemblyReference.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson03/Scenario3-1/obj/Debug/netcoreapp2.0/Scenario3-1.csproj.CoreCompileInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson03/Scenario3-1/obj/Debug/netcoreapp2.0/Scenario3-1.AssemblyInfoInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Lesson03/Scenario3-1/obj/Debug/netcoreapp2.0/Scenario3-1.AssemblyInfo.cs
+/Users/steven/Projects/CSharpFundamentals/Lesson03/Scenario3-1/obj/Debug/netcoreapp2.0/Scenario3-1.dll
+/Users/steven/Projects/CSharpFundamentals/Lesson03/Scenario3-1/obj/Debug/netcoreapp2.0/Scenario3-1.pdb
