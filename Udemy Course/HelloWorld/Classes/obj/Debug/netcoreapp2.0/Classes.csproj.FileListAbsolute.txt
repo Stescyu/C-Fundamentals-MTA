@@ -1,0 +1,10 @@
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/Classes/bin/Debug/netcoreapp2.0/Classes.deps.json
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/Classes/bin/Debug/netcoreapp2.0/Classes.runtimeconfig.json
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/Classes/bin/Debug/netcoreapp2.0/Classes.runtimeconfig.dev.json
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/Classes/bin/Debug/netcoreapp2.0/Classes.dll
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/Classes/bin/Debug/netcoreapp2.0/Classes.pdb
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/Classes/obj/Debug/netcoreapp2.0/Classes.csproj.CoreCompileInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/Classes/obj/Debug/netcoreapp2.0/Classes.AssemblyInfoInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/Classes/obj/Debug/netcoreapp2.0/Classes.AssemblyInfo.cs
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/Classes/obj/Debug/netcoreapp2.0/Classes.dll
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/Classes/obj/Debug/netcoreapp2.0/Classes.pdb

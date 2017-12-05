@@ -1,0 +1,11 @@
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.deps.json
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.runtimeconfig.json
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.runtimeconfig.dev.json
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.dll
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.pdb
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.csprojResolveAssemblyReference.cache
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.AssemblyInfo.cs
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.dll
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.pdb
