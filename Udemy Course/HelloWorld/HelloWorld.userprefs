@@ -1,7 +1,8 @@
-﻿<Properties StartupConfiguration="{48FF7849-30CF-4ED3-8487-BFB176028F88}|Default">
+﻿<Properties StartupConfiguration="{451C30E7-D4A4-4C3E-8E5C-E5C2228C7E99}|Default">
   <MonoDevelop.Ide.ItemProperties.Strings PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.StackHeap PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
