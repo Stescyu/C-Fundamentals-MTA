@@ -1,0 +1,11 @@
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/StringManipulation/bin/Debug/netcoreapp2.0/StringManipulation.deps.json
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/StringManipulation/bin/Debug/netcoreapp2.0/StringManipulation.runtimeconfig.json
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/StringManipulation/bin/Debug/netcoreapp2.0/StringManipulation.runtimeconfig.dev.json
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/StringManipulation/bin/Debug/netcoreapp2.0/StringManipulation.dll
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/StringManipulation/bin/Debug/netcoreapp2.0/StringManipulation.pdb
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/StringManipulation/obj/Debug/netcoreapp2.0/StringManipulation.csprojResolveAssemblyReference.cache
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/StringManipulation/obj/Debug/netcoreapp2.0/StringManipulation.csproj.CoreCompileInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/StringManipulation/obj/Debug/netcoreapp2.0/StringManipulation.AssemblyInfoInputs.cache
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/StringManipulation/obj/Debug/netcoreapp2.0/StringManipulation.AssemblyInfo.cs
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/StringManipulation/obj/Debug/netcoreapp2.0/StringManipulation.dll
+/Users/steven/Projects/CSharpFundamentals/Udemy Course/HelloWorld/StringManipulation/obj/Debug/netcoreapp2.0/StringManipulation.pdb
